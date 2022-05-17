@@ -1,0 +1,12 @@
+{
+	"name": "copiarCSV",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/cacaviana/DataFactory/main/moviesDB.csv",
+			"enableServerCertificateValidation": false,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
