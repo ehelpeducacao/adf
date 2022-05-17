@@ -1,0 +1,9 @@
+{
+	"name": "AzuredfEngdadosadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b640e565-0472-42ef-8d4c-69e0f7b21b87",
+		"tenantId": "c91d481c-40b4-4ff9-8f2e-a00df534d8b7"
+	}
+}
